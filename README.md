@@ -11,8 +11,6 @@ This repository contains all coursework, projects, and certifications completed 
 
 **Live app:** [https://huggingface.co/spaces/raquel2344/InvestorInsightAI](https://huggingface.co/spaces/raquel2344/InvestorInsightAI)
 
-**Code:** [Team Capstone Project/InvestorInsightAi/](./Team%20Capstone%20Project/InvestorInsightAi/)
-
 ### What it does
 - 📊 Generates an interactive Sankey chart showing how money flows through the business
 - 💡 Produces a plain-English financial story and bucket breakdown with LLM reasoning
