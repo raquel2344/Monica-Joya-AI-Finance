@@ -49,4 +49,4 @@ export GROQ_API_KEY=your_groq_key_here
 python app.py
 ```
 
-Get a free Groq API key at [console.groq.com](https://console.groq.com) — no credit card required.
+
