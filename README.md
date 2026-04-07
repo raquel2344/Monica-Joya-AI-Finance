@@ -5,7 +5,7 @@ This repository contains all certifications completed as part of the AI in Finan
 
 ---
 
-## 🏆 Capstone Project — InvestorInsight AI
+## 🏆 Team Capstone Project — InvestorInsight AI
 
 > A RAG-powered web application that reads any public company's 10-K filing from SEC EDGAR and transforms it into an interactive investor experience — live, free, and accessible from any device.
 
