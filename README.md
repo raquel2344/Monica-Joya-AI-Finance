@@ -11,7 +11,7 @@ This repository contains all coursework, projects, and certifications completed 
 
 **Live app:** [https://huggingface.co/spaces/raquel2344/InvestorInsightAI](https://huggingface.co/spaces/raquel2344/InvestorInsightAI)
 
-**Code:** [InvestorInsightAi/](./InvestorInsightAi/)
+**Code:** [Team Capstone Project/InvestorInsightAi/](./Team%20Capstone%20Project/InvestorInsightAi/)
 
 ### What it does
 - 📊 Generates an interactive Sankey chart showing how money flows through the business
@@ -39,7 +39,8 @@ This repository contains all coursework, projects, and certifications completed 
 
 ```
 Monica-Joya-AI-Finance/
-├── InvestorInsightAi/       ← Capstone project (live on HuggingFace)
+├── Team Capstone Project/
+│   └── InvestorInsightAi/   ← Capstone project (live on HuggingFace)
 ├── assignments/             ← Course assignments (coming soon)
 ├── certificates/            ← Course certifications (coming soon)
 └── README.md                ← You are here
