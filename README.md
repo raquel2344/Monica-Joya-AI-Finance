@@ -39,8 +39,7 @@ This repository contains all certifications completed as part of the AI in Finan
 Monica-Joya-AI-Finance/
 ├── Team Capstone Project/
 │   └── InvestorInsightAi/   ← Capstone project (live app on HuggingFace)
-├── assignments/             ← Course assignments (coming soon)
-├── certificates/            ← Course certifications (coming soon)
+├── Certificates/            ← Course certifications (coming soon)
 └── README.md                ← You are here
 ```
 
