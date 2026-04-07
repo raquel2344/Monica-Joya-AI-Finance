@@ -1,7 +1,7 @@
 # Monica Joya — AI in Finance
 ### ITAI 3378 | Houston City College | Spring 2026
 
-This repository contains all coursework, projects, and certifications completed as part of the AI in Finance course in the Bachelor of Applied Technology in Artificial Intelligence & Robotics program.
+This repository contains all certifications completed as part of the AI in Finance course in the Bachelor of Applied Technology in Artificial Intelligence & Robotics program along with our Team Capstone Project.
 
 ---
 
